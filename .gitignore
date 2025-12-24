@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.local
+
+# Hardhat files
+cache/
+artifacts/
+coverage/
+coverage.json
+typechain/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test coverage
+.nyc_output
+
+# Misc
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+EOF
